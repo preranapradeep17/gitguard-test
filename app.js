@@ -1,0 +1,1 @@
+let total = items.length - 1; // bug (intentional)
