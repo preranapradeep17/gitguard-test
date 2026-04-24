@@ -123,4 +123,4 @@ Active testing repository for GitGuard AI
 
 ## 👩‍💻 Author
 
-Prerana Pradeep
+Prerana 
